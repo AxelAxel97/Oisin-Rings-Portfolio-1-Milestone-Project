@@ -1,10 +1,150 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap');
+/* google font inport */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Cinzel+Decorative&display=swap');
+
+/* style.css */
 
 body {
-    font-family: "Inter", sans-serif;
-    color: red;
+  font-family: 'Georgia', serif;
+  background-color: #f3efe7;
+  color: #2d2b27;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
 }
 
-h1 {
-    font-family: "Macondo", cursive;
+.navbar {
+  background-color: #e2dcd0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.8rem;
+  color: #3f2e13;
+  font-family: 'Cinzel', serif;
+}
+
+.nav-link {
+  color: #4a3c1a !important;
+  font-weight: 500;
+}
+
+.hero {
+  background: url('hero.jpg') center/cover no-repeat;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-family: 'Cinzel Decorative', cursive;
+  color: #DC143C; /* Stays crimson red */
+}
+
+.hero p {
+  font-size: 1.25rem;
+  font-style: italic;
+  color: #2d2b27; /* Dark earthy color */
+  text-shadow: none; /* This removes the shadow specifically for the paragraph */
+}
+
+section {
+  padding: 3rem 0;
+}
+
+h2 {
+  color: #3f2e13;
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  background-color: #fefcf9;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card-title {
+  color: #2e2410;
+  font-weight: 600;
+  font-family: 'Georgia', serif;
+}
+
+footer {
+  background-color: #3b2e1b;
+  color: #f8f4ed;
+  font-size: 0.9rem;
+}
+
+footer a {
+  color: #d9c29c;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+.btn-primary {
+  background-color: #6b4c2b;
+  border-color: #6b4c2b;
+  font-family: 'Georgia', serif;
+}
+
+.btn-primary:hover {
+  background-color: #5e4024;
+  border-color: #5e4024;
+}
+
+.btn-secondary {
+  background-color: #a0855b;
+  border: none;
+  font-family: 'Georgia', serif;
+}
+
+.btn-secondary:hover {
+  background-color: #8c724d;
+}
+
+input, textarea {
+  background-color: #fffefb;
+  border: 1px solid #d3c7b5;
+  color: #2d2b27;
+}
+
+input:focus, textarea:focus {
+  border-color: #6b4c2b;
+  box-shadow: none;
+}
+
+.blockquote {
+  font-style: italic;
+  background-color: #f7f3ec;
+  border-left: 4px solid #8c724d;
+  padding-left: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .hero h1 {
+    font-size: 4rem;
+  }
+
+  .hero p {
+    font-size: 1.5rem;
+  }
 }

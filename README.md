@@ -1,6 +1,4 @@
-# Oisin-Rings-Portfolio-1-Milestone-Project
-
-# Oisin Rings: Handcrafted Jewellery
+# Oisin Rings: Handcrafted Jewellery Portfolio-1-Milestone-Project
 
 👩🏻‍💻 View an example of this section [here]()
 
@@ -57,6 +55,8 @@ View an example of a completed user experience section [here](https://github.com
 ### User Stories
 
 Add your user stories here. You want to include first time visitors and returning visitors here as a minimum. Think about each group, and the experience and journey you want them to have on your site. It really helps to think about this before you start coding, and will really help with creating your wireframes.
+
+
 
 ## Design
 

@@ -1,34 +1,25 @@
 # Oisin Rings: Handcrafted Jewellery Portfolio-1-Milestone-Project
 
-👩🏻‍💻 View an example of this section [here](https://axelaxel97.github.io/Oisin-Rings-Portfolio-1-Milestone-Project/#hero)
-
-This project is the front-end for Oisin Rings, an online store specialising in bespoke, handcrafted silver jewellery. I built this site as a Milestone Project to showcase my current front-end development abilities using HTML, CSS and Bootstrap. The site aims to provide a clear, elegant and engaging platformfor customers to explore unique, nature-inspired rings made from 100% recycled 925 silver and ethically sourced gemstones, as well as inquire about custom commissions.  
-
-Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
-
-
-
-
-!![Responsive Mockup of oisin rings](assets/images/responsive-mockup.png)
+![Responsive Mockup of oisin rings](assets/images/responsive-mockup.png)
 This project is the front-end for Oisin Rings, an online store specialising in bespoke, handcrafted silver jewellery. I built this site as a Milestone Project to showcase my current front-end development abilities using HTML, CSS and Bootstrap. The site aims to provide a clear, elegant and engaging platformfor customers to explore unique, nature-inspi
 
-Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
-
-If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section.
+View a link to the deployed site [here](https://axelaxel97.github.io/Oisin-Rings-Portfolio-1-Milestone-Project/#hero)
 
 ---
 
 ## Design
 
-This site was created and designed with young adults and teenagers in mind who are looking for information and access to a very specific group in their own locality. It was built with a mobile-first approach, keeping in mind that most of the target audience would access the site via phone or other mobile device. The content is short and informative, the style colourful and reassuring.
+<!-- Add a section about the DESIGN later --> 
 
 ### Wireframes
 - The first wireframe in [Figma](https://www.figma.com/file/wT3sdUsGl5XI6l3T6eq9bs/CI-Project-1?node-id=35%3A111) is a very simple design. It also shows an alternative option for the homepage layout which could be implemented in the future.
 
 ### Font and Colour choices
-**Fonts:** "Irish Grover" was chosen for its Irish theme, given that the site targets a specific rural Irish community. "Nunito", with its rounded edges brings along a soft, gentle yet playful appearance, ideal for young users belonging to a minority group.
 
-**Colours:** A light purple is the main colour of the site, referring to the often represented colour of a lot of pride flags. The general rainbow theme of the pride movement is reflected in the logo and throughout the images on the site.
+**Fonts:** The typography of Oising Rings combines classic elegance with a distinct artisan feel, using fonts imported from Google Fonts.
+'Georgia', serif: This traditional serif font is used for the body text and card-title, providing top readability for paragraphs and a timeless feel that aligns with the handcrafted nature of the jewellery. It's a highly accessible font with good legibility.
+
+**Colours:** This site is designed with a sophisticated color palette, comprising soft beiges and subtle dark earthy tones, forms the foundational backdrop, allowing the intricate details of the jewelry to be highlighted. This is contrasted by a vibrant crimson red for key heading. 
 
 ## Features
 

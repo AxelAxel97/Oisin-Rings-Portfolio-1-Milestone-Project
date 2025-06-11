@@ -22,7 +22,7 @@ View a link to the deployed site [here](https://axelaxel97.github.io/Oisin-Rings
 
 
 ### Wireframes
-- The very first wwireframe i created of my project was by pen and paper, which i have included below. 
+- The very first wireframe i created of my project was by pen and paper, which i have included below. 
 ![Oisin Rings Pen&Paper1](assets/images/Wireframe-com.jpg)
 ![Oisin Rings Pen&Paper2](assets/images/wireframe-tab.jpg)
 ![Oisin Rings Pen&Paper3](assets/images/wireframe-phone.jpg)
@@ -191,10 +191,12 @@ To get a local copy of the project files on your machine:
 ### Code Used
  **Bootstrap 5.3**: For the responsive framework and various UI components.
     * Source: [Bootstrap Official Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+ 
  **Google Fonts**: For importing 'Cinzel', 'Cinzel Decorative', and 'Georgia'.
     * Source: [Google Fonts](https://fonts.google.com/)
+ 
  **Font Awesome**: For social media icons.
-    * Source: [Font Awesome CDN](https://fontawesome.com/)
+   * Source: [Font Awesome CDN](https://fontawesome.com/)
 
 
 ### Acknowledgments

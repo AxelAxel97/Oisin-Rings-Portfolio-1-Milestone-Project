@@ -108,3 +108,68 @@ This site implements the very basic features of a static website.
 **Image Gallery for Custom Designs**: Showcase a portfolio of past custom ring projects to inspire potential clients.
  
 **Interactive Design Tool**: Potentially implement a simple tool for users to visualize basic custom ring elements.
+
+### Accessibility
+Accessibility has been considered throughout the development process to ensure my project is usable by as many people as possible.
+
+**Semantic HTML**: Used appropriate HTML5 semantic elements (`<header>`, `<nav>`, `<section>`, `<footer>`, `<h1>`, `<p>`, `<img>`, `<form>`, `<label>`, `<input>`, `<textarea>`, `<button>`) to provide a clear structure for assistive technologies.
+
+**Clear Contrast**: The color scheme has been chosen to provide good contrast between text and background, particularly for the main body text (`#2d2b27` on `#f3efe7`).
+
+**Accessible Fonts**: 'Georgia' is a highly readable and generally accessible serif font. While 'Cinzel Decorative' is more ornate for the hero `h1`, it's used sparingly and for prominent, short text.
+
+**`alt` attributes**: All `<img>` tags include descriptive `alt` attributes to provide context for screen readers.
+
+**Form Labels**: All form inputs are associated with `<label>` tags for improved usability and accessibility.
+
+**Responsive Design**: The site is fully responsive, ensuring content is accessible and usable on various screen sizes and devices.
+
+## Deployment
+This project is deployed using GitHub Pages.
+
+To deploy your own version of this project:
+1.  Log in to GitHub and navigate to your project repository.
+2.  Click on the "Settings" tab.
+3.  In the left sidebar, click on "Pages."
+4.  Under "Build and deployment," select "Deploy from a branch" for the source.
+5.  Choose the `main` branch (or your preferred branch) and `/ (root)` for the folder, then click "Save."
+6.  Your site will be deployed shortly, and the live URL will be displayed in the "Pages" section.
+
+### Local Development
+This section explains how to get a local copy of this project running on your machine for development or testing purposes.
+
+#### How to Fork
+To create a personal copy of this repository on your GitHub account (a "fork"):
+1.  Navigate to the Oising Rings repository on GitHub.
+2.  In the top-right corner of the page, click the "Fork" button.
+3.  This will create a copy of the repository in your GitHub account under your username.
+
+#### How to Clone
+To get a local copy of the project files on your machine:
+1.  On the GitHub repository page (either your fork or the original), click the green "Code" button.
+2.  In the "Local" tab, select your preferred method (HTTPS, SSH, or GitHub CLI) and copy the provided URL.
+3.  Open your terminal or Git Bash.
+4.  Navigate to the directory where you want to save the project.
+5.  Type `git clone` followed by the copied URL:
+    ```bash
+    git clone [THE_COPIED_URL_HERE]
+    ```
+6.  Press Enter, and the project files will be downloaded to your local machine.
+
+## Testing
+
+### Validator Testing
+- HTML: ![W3C validator](assets/images/html-checker.png)
+    - After going back and forth serveral times with errors in the code i managed to organise and structure it to pass. 
+
+- CSS [Jigsaw](assets/images/css-checker.png)
+    - No errors found
+
+- Accessibility 
+     Attributes to all social links to improve accessibility
+
+- Performance, Accessibility, SEO, Best Practices (Lighthouse Chrome DevTools)
+     ![Lighthouse rating](assets/images/lighthouse-testing.png)
+
+- Browser Support ([CanIUse](https://caniuse.com/))
+   

@@ -38,44 +38,28 @@ View a link to the deployed site [here](https://axelaxel97.github.io/Oisin-Rings
 ![Oising Rings Color Palette 2](assets/images/color-palette2%20.png)
 
  **Primary Background (`#f3efe7`)**: A soft, light beige providing a warm and inviting base, reminiscent of natural stone or parchment.
+ 
  **Secondary Background (`#e2dcd0`)**: A slightly darker, muted beige used for elements like the navbar, adding subtle depth.
+ 
  **Body Text (`#2d2b27`)**: A deep, rich charcoal brown, ensuring readability while maintaining the earthy aesthetic.
+ 
  **Primary Headings (`#3f2e13`)**: A darker brown, almost black, used for main section titles, providing strong contrast and gravitas.
+ 
  **Link/Accent (`#4a3c1a`)**: A warm, mid-brown used for navigation links, ensuring they stand out while harmonizing with the overall palette.
+ 
  **Hero Heading Accent (`#DC143C` - Crimson Red)**: A vibrant, bold red specifically chosen for the main hero heading to create a strong visual impact and draw immediate attention.
+ 
  **Button Primary (`#6b4c2b`)**: A robust, medium-dark brown for primary call-to-action buttons, suggesting durability and natural materials.
+ 
  **Button Secondary (`#a0855b`)**: A lighter, more muted brown for secondary actions, offering a softer alternative.
+ 
  **Footer Background (`#3b2e1b`)**: A very dark, almost black-brown, providing a solid, grounding base for the footer content.
+ 
  **Footer Link (`#d9c29c`)**: A light, desaturated gold/beige for footer links, offering good contrast against the dark background.
+ 
  **Card Background (`#fefcf9`)**: A very light, almost white, subtle creamy tone for product cards, making the product images and text pop.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- ## Features
+## Features
 
 This site implements the very basic features of a static website.
 
@@ -83,6 +67,5 @@ This site implements the very basic features of a static website.
 - **Navigation Bar**
     - Featured in the header at the top of the page. Includes the club's logo and links to the sections, About, Shop,     Testimonials, Custom Rings and Contact. 
     - Uniform format allows for easy navigation on all pages without the use of the "back" button but scrolling.
-     
-    ![navbar][def]: assets/images/
+    ![Oising Rings Navigation Bar](assets/images/navbar.png)
 

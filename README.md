@@ -64,8 +64,33 @@ View a link to the deployed site [here](https://axelaxel97.github.io/Oisin-Rings
 This site implements the very basic features of a static website.
 
 ### Existing Features
-- **Navigation Bar**
+- **Responsive Navigation Bar**
     - Featured in the header at the top of the page. Includes the club's logo and links to the sections, About, Shop,     Testimonials, Custom Rings and Contact. 
     - Uniform format allows for easy navigation on all pages without the use of the "back" button but scrolling.
-    ![Oising Rings Navigation Bar](assets/images/navbar.png)
+   
+    ![Oisin Rings Navigation Bar](assets/images/navbar.png)
+
+**Hero Section**: A dynamic and visually impactful `header` at the top of the page, featuring a large muted background and a compelling headline and tagline.
+
+![Oisin Rings Header & Tagline](assets/images/header.png)
+
+**Footer**: A consistent `footer` across the bottom, containing copyright information and links to social media (Facebook, Instagram, Twitter) via Font Awesome icons.
+
+![Oisin Rings Footer](assets/images/footer.png)
+
+**Product gallery**: An dynamic three image gallery displaying images of stock options with discriptions.(Silver band, Silver Ember Rings, Custom Design).
+
+![Oisin Ring Section1](assets/images/our-rings.png)
+
+**Testimonials**: A quote and name from previous customers expressing gratitude. 
+
+![Oisin Ring Section2](assets/images/testimonials.png)
+
+**Create A Custom Ring Form**: A form where first time visitors or returning customers can inquire about custom designs. 
+
+![Oisin Rings Section3](assets/images/crf.png)
+
+**Contact Us**: An additional form where casual browsers or returning customers/business can as general questions. 
+
+![Oisin Rings Section4](assets/images/contact-us.png)
 

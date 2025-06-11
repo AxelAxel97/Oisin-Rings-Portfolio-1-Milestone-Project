@@ -142,36 +142,22 @@ Accessibility has been considered throughout the development process to ensure m
 **Responsive Design**: The site is fully responsive, ensuring content is accessible and usable on various screen sizes and devices.
 
 ## Deployment
-This project is deployed using GitHub Pages.
 
-To deploy your own version of this project:
-1.  Log in to GitHub and navigate to your project repository.
-2.  Click on the "Settings" tab.
-3.  In the left sidebar, click on "Pages."
-4.  Under "Build and deployment," select "Deploy from a branch" for the source.
-5.  Choose the `main` branch (or your preferred branch) and `/ (root)` for the folder, then click "Save."
-6.  Your site will be deployed shortly, and the live URL will be displayed in the "Pages" section.
+This site was deployed via GitHub pages using the following steps:
+- From the GitHub repository, navigate to **Settings**
+- In the left-hand navigation section select **Pages**
+- From the source section drop-down menu change Branch from **none** to **main** and click the **Save**
+- After several minutes the website is live and will be automatically refreshed with each Git push command.
 
-### Local Development
-This section explains how to get a local copy of this project running on your machine for development or testing purposes.
+The link to the deployed site is:  https://axelaxel97.github.io/Oisin-Rings-Portfolio-1-Milestone-Project/
 
-#### How to Fork
-To create a personal copy of this repository on your GitHub account (a "fork"):
-1.  Navigate to the Oising Rings repository on GitHub.
-2.  In the top-right corner of the page, click the "Fork" button.
-3.  This will create a copy of the repository in your GitHub account under your username.
+To run locally:
+- Log into GitHub and click on repository to download ([ms1-project](https://github.com/AxelAxel97/Oisin-Rings-Portfolio-1-Milestone-Project))
 
-#### How to Clone
-To get a local copy of the project files on your machine:
-1.  On the GitHub repository page (either your fork or the original), click the green "Code" button.
-2.  In the "Local" tab, select your preferred method (HTTPS, SSH, or GitHub CLI) and copy the provided URL.
-3.  Open your terminal or Git Bash.
-4.  Navigate to the directory where you want to save the project.
-5.  Type `git clone` followed by the copied URL:
-    ```bash
-    git clone [THE_COPIED_URL_HERE]
-    ```
-6.  Press Enter, and the project files will be downloaded to your local machine.
+- Select **Code** and click "Download the Zip file.
+- Once download is completed, extract ZIP file and use in your local environment.
+
+Alternatively you can **Clone** or **Fork** this repository into your GitHub account.
 
 ## Testing
 

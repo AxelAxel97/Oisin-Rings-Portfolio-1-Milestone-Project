@@ -94,3 +94,17 @@ This site implements the very basic features of a static website.
 
 ![Oisin Rings Section4](assets/images/contact-us.png)
 
+### Future Implementations
+**E-commerce Functionality**: Integrate a shopping cart and checkout system to allow direct purchases of "ready to order" rings.
+ 
+**Product Detail Pages**: Create individual pages for each ring with more images, detailed descriptions, sizing options, and material information.
+ 
+**Advanced Filtering/Search**: Implement search and filtering options in the shop section to help users find specific ring styles, materials, or gemstones.
+ 
+**Blog/News Section**: Add a blog to share insights into the crafting process, new collections, or behind-the-scenes content.
+ 
+**User Accounts**: Allow users to create accounts to save preferences, track orders, and manage custom design inquiries.
+ 
+**Image Gallery for Custom Designs**: Showcase a portfolio of past custom ring projects to inspire potential clients.
+ 
+**Interactive Design Tool**: Potentially implement a simple tool for users to visualize basic custom ring elements.

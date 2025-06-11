@@ -1,6 +1,6 @@
 # Oisin Rings: Handcrafted Jewellery Portfolio-1-Milestone-Project
 
-👩🏻‍💻 View an example of this section [here]()
+👩🏻‍💻 View an example of this section [here](https://axelaxel97.github.io/Oisin-Rings-Portfolio-1-Milestone-Project/#hero)
 
 This project is the front-end for Oisin Rings, an online store specialising in bespoke, handcrafted silver jewellery. I built this site as a Milestone Project to showcase my current front-end development abilities using HTML, CSS and Bootstrap. The site aims to provide a clear, elegant and engaging platformfor customers to explore unique, nature-inspired rings made from 100% recycled 925 silver and ethically sourced gemstones, as well as inquire about custom commissions.  
 

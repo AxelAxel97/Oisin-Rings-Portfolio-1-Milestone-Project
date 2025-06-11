@@ -20,12 +20,18 @@ View a link to the deployed site [here](https://axelaxel97.github.io/Oisin-Rings
 * As a returning visitor, I want to easily fill out the custom ring inquiry form to start a new project.
 * As a returning visitor, I want to quickly find contact information or subscribe to the newsletter for updates.
 
-## Design
-
-<!-- Add a section about the DESIGN later --> 
 
 ### Wireframes
-- The first wireframe in [Figma](https://www.figma.com/file/wT3sdUsGl5XI6l3T6eq9bs/CI-Project-1?node-id=35%3A111) is a very simple design. It also shows an alternative option for the homepage layout which could be implemented in the future.
+- The very first wwireframe i created of my project was by pen and paper, which i have included below. 
+![Oisin Rings Pen&Paper1](assets/images/Wireframe-com.jpg)
+![Oisin Rings Pen&Paper2](assets/images/wireframe-tab.jpg)
+![Oisin Rings Pen&Paper3](assets/images/wireframe-phone.jpg)
+- As you can see its a very rough outline of the finished product but together with the Story board i created in the projects section of my repository i was able to make sense of it rather quickly.
+
+## Design
+
+With the overall design i tried to stay as minimalistic as possible with a single page application structure. The responsive layout guarantees a consistent and beautiful presentation across all devices, relating to the brand's commitment to quality from every perspective.
+
 
 ### Font and Colour choices
 
@@ -37,27 +43,38 @@ View a link to the deployed site [here](https://axelaxel97.github.io/Oisin-Rings
 ![Oising Rings Color Palette 1](assets/images/color-palette1%20.png)
 ![Oising Rings Color Palette 2](assets/images/color-palette2%20.png)
 
- **Primary Background (`#f3efe7`)**: A soft, light beige providing a warm and inviting base, reminiscent of natural stone or parchment.
+ **Primary Background (`#f3efe7`)** 
+ - A soft, light beige providing a warm and inviting base, reminiscent of natural stone or parchment.
  
- **Secondary Background (`#e2dcd0`)**: A slightly darker, muted beige used for elements like the navbar, adding subtle depth.
+ **Secondary Background (`#e2dcd0`)**
+ - A slightly darker, muted beige used for elements like the navbar, adding subtle depth.
  
- **Body Text (`#2d2b27`)**: A deep, rich charcoal brown, ensuring readability while maintaining the earthy aesthetic.
+ **Body Text (`#2d2b27`)**
+ - A deep, rich charcoal brown, ensuring readability while maintaining the earthy aesthetic.
  
- **Primary Headings (`#3f2e13`)**: A darker brown, almost black, used for main section titles, providing strong contrast and gravitas.
+ **Primary Headings (`#3f2e13`)**
+ - A darker brown, almost black, used for main section titles, providing strong contrast and gravitas.
  
- **Link/Accent (`#4a3c1a`)**: A warm, mid-brown used for navigation links, ensuring they stand out while harmonizing with the overall palette.
+ **Link/Accent (`#4a3c1a`)**
+ - A warm, mid-brown used for navigation links, ensuring they stand out while harmonizing with the overall palette.
  
- **Hero Heading Accent (`#DC143C` - Crimson Red)**: A vibrant, bold red specifically chosen for the main hero heading to create a strong visual impact and draw immediate attention.
+ **Hero Heading Accent (`#DC143C` - Crimson Red)**
+ - A vibrant, bold red specifically chosen for the main hero heading to create a strong visual impact and draw immediate attention.
  
- **Button Primary (`#6b4c2b`)**: A robust, medium-dark brown for primary call-to-action buttons, suggesting durability and natural materials.
+ **Button Primary (`#6b4c2b`)**
+ - A robust, medium-dark brown for primary call-to-action buttons, suggesting durability and natural materials.
  
- **Button Secondary (`#a0855b`)**: A lighter, more muted brown for secondary actions, offering a softer alternative.
+ **Button Secondary (`#a0855b`)**
+ - A lighter, more muted brown for secondary actions, offering a softer alternative.
  
- **Footer Background (`#3b2e1b`)**: A very dark, almost black-brown, providing a solid, grounding base for the footer content.
+ **Footer Background (`#3b2e1b`)**
+ - A very dark, almost black-brown, providing a solid, grounding base for the footer content.
  
- **Footer Link (`#d9c29c`)**: A light, desaturated gold/beige for footer links, offering good contrast against the dark background.
+ **Footer Link (`#d9c29c`)**
+ - A light, desaturated gold/beige for footer links, offering good contrast against the dark background.
  
- **Card Background (`#fefcf9`)**: A very light, almost white, subtle creamy tone for product cards, making the product images and text pop.
+ **Card Background (`#fefcf9`)**
+ - A very light, almost white, subtle creamy tone for product cards, making the product images and text pop.
 
 ## Features
 
@@ -171,5 +188,18 @@ To get a local copy of the project files on your machine:
 - Performance, Accessibility, SEO, Best Practices (Lighthouse Chrome DevTools)
      ![Lighthouse rating](assets/images/lighthouse-testing.png)
 
-- Browser Support ([CanIUse](https://caniuse.com/))
+### Code Used
+ **Bootstrap 5.3**: For the responsive framework and various UI components.
+    * Source: [Bootstrap Official Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+ **Google Fonts**: For importing 'Cinzel', 'Cinzel Decorative', and 'Georgia'.
+    * Source: [Google Fonts](https://fonts.google.com/)
+ **Font Awesome**: For social media icons.
+    * Source: [Font Awesome CDN](https://fontawesome.com/)
+
+
+### Acknowledgments
+* [Richard Wells(tutor)] For great guidance and feedback throughout the project.
+* Code Institute Student Care Team (Kieron): For extreme patience and general help
+* The wider Code Institute Slack Community: For helpful discussions and support.
+
    
